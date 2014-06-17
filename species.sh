@@ -1,3 +1,4 @@
+#TODO write more stuff about animal
 for filename in $*
 do
 	echo $filename
